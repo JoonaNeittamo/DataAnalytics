@@ -23,3 +23,7 @@ This project uses a Decision Tree Classifier to predict diabetes diagnosis based
 - **Prediction**: Makes predictions on the test set.
 - **Accuracy**: Calculates and prints the accuracy score.
 - **Confusion Matrix**: Generates and plots the confusion matrix to evaluate model performance.
+
+---
+
+Check the .pdf file for an easy overview of the code

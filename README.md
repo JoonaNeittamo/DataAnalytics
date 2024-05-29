@@ -1,5 +1,7 @@
 # Data Analytics
 This folder contains self studies and small projects to develop my skills and understanding in Data Analytics
+All projects contain a .pdf file for easy access and view
+
 ---
 
 ## Data Preparation
